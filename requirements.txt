@@ -1,0 +1,9 @@
+EasyProcess==0.2.3
+olefile==0.44
+Pillow==4.2.1
+python3-xlib==0.15
+PyAutoGUI==0.9.36
+PyMsgBox==1.0.6
+pyscreenshot==0.4.2
+PyScreeze==0.1.13s
+PyTweening==1.0.3
